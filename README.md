@@ -5,6 +5,7 @@ Extra basic cityhall resource
 Dependencies:
 Ox Lib
 Ox Inventory
+Ox Target
 QB-Core
 
 Optionals
